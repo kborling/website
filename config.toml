@@ -1,0 +1,4 @@
+baseURL = "https://kevinborling.com"
+languageCode = "en-us"
+title = "Kevin Borling"
+theme = "hello-friend-ng"
