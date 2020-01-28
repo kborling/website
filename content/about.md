@@ -6,14 +6,9 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Kevin Borling"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Hi I'm Kevin. 
 
-It makes use of a variety of open source projects including:
+I am the owner of Kollab Innovations, a software development
+company. 
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Follow me and contribute on [GitHub](https://github.com/kborling).
