@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kevin Borling</title>
-    <link>https://kevinborling.com/</link>
-    <description>Recent content on Kevin Borling</description>
+    <title>productivity on Kevin Borling</title>
+    <link>https://kevinborling.com/tags/productivity/</link>
+    <description>Recent content in productivity on Kevin Borling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 09:13:45 -0500</lastBuildDate>
     
-	<atom:link href="https://kevinborling.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kevinborling.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,26 +19,6 @@
       
       <guid>https://kevinborling.com/posts/2020/01/my-personal-productivity-guide/</guid>
       <description>Being self-employed and service based has been a rewarding experience, but let&amp;rsquo;s be honest.. it&amp;rsquo;s a constant grind. You are either swamped with work, or you are worrying about being homeless. Yes I am exaggerating a bit, but the point that I am trying to make is the lack of consistency. This lack of consistency can be the deciding factor for most self-employed folks to throw in the towel and get a &amp;ldquo;real&amp;rdquo; job (as my family would often remind me).</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://kevinborling.com/posts/2020/01/first-post/</link>
-      <pubDate>Mon, 27 Jan 2020 20:06:24 -0500</pubDate>
-      
-      <guid>https://kevinborling.com/posts/2020/01/first-post/</guid>
-      <description>// This says hello  int main() { fmt.Print(&amp;#34;hello&amp;#34;) } </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://kevinborling.com/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kevinborling.com/about/</guid>
-      <description>Hi I&amp;rsquo;m Kevin.
-I am the owner of Kollab Innovations, a software development company.
-Follow me and contribute on GitHub.</description>
     </item>
     
   </channel>

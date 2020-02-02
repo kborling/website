@@ -5,17 +5,141 @@
         <description>Recent content in Posts on Kevin Borling</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 27 Jan 2020 20:06:24 -0500</lastBuildDate>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Tue, 28 Jan 2020 09:13:45 -0500</lastBuildDate>
         <atom:link href="https://kevinborling.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>About Me</title>
-            <link>https://kevinborling.com/posts/about-me/</link>
+            <title>My Personal Productivity Guide</title>
+            <link>https://kevinborling.com/posts/2020/01/my-personal-productivity-guide/</link>
+            <pubDate>Tue, 28 Jan 2020 09:13:45 -0500</pubDate>
+            
+            <guid>https://kevinborling.com/posts/2020/01/my-personal-productivity-guide/</guid>
+            <description>Being self-employed and service based has been a rewarding experience, but let&amp;rsquo;s be honest.. it&amp;rsquo;s a constant grind. You are either swamped with work, or you are worrying about being homeless. Yes I am exaggerating a bit, but the point that I am trying to make is the lack of consistency. This lack of consistency can be the deciding factor for most self-employed folks to throw in the towel and get a &amp;ldquo;real&amp;rdquo; job (as my family would often remind me).</description>
+            <content type="html"><![CDATA[<p>Being self-employed and service based has been a rewarding experience, but let&rsquo;s
+be honest.. it&rsquo;s a constant grind. You are either swamped with work, or you are
+worrying about being homeless. Yes I am exaggerating a bit, but the point that I
+am trying to make is the lack of consistency. This lack of consistency can be
+the deciding factor for most self-employed folks to throw in the towel and get a
+&ldquo;real&rdquo; job (as my family would often remind me).</p>
+<p>This brings me to my next point. The real challenge of being self-employed is
+finding consistant work that meets your criteria for success. Here is what I
+define as my criteria for success.</p>
+<p>One of the things that I&rsquo;ve learned from the military is that I need structure..
+a lot of it. Without it, I am all over the place and often feel dissatisfied with
+my work days. I typically refer to these types of work days as &ldquo;no control??&quot;.</p>
+<p>This led to feeling depressed and anxious because I wasn&rsquo;t getting
+anything done in a realistic timeframe. Continuing</p>
+<p>It becomes a negative feedback loop,
+where the anxiety and depression pile on, along with the tasks at work.</p>
+<h2 id="my-schedule">My Schedule</h2>
+<p>I break up my typical workday (Monday-Friday) into blocks of time.</p>
+<p>I found this method to be the most effective for me.
+If I am able to follow this schedule, I maximize my productivity for the day.</p>
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Activity</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>04:30</td>
+<td>Wake up</td>
+<td></td>
+</tr>
+<tr>
+<td>05:15-06:15</td>
+<td>Workout</td>
+<td></td>
+</tr>
+<tr>
+<td>06:30</td>
+<td>Shower</td>
+<td></td>
+</tr>
+<tr>
+<td>06:40-07:00</td>
+<td>Breakfast</td>
+<td></td>
+</tr>
+<tr>
+<td>07:00-09:00</td>
+<td>Study</td>
+<td>I take this time to learn something new, brush up on my programming skills, or read a book.</td>
+</tr>
+<tr>
+<td>09:00-12:30</td>
+<td>Deep Work</td>
+<td></td>
+</tr>
+<tr>
+<td>12:30-13:00</td>
+<td>Lunch</td>
+<td></td>
+</tr>
+<tr>
+<td>13:00-13:30</td>
+<td>Shallow Work</td>
+<td></td>
+</tr>
+<tr>
+<td>13:30-17:30</td>
+<td>Deep Work</td>
+<td></td>
+</tr>
+<tr>
+<td>17:30-18:30</td>
+<td>Dinner</td>
+<td></td>
+</tr>
+<tr>
+<td>18:30-19:30</td>
+<td>Bedtime Routine</td>
+<td></td>
+</tr>
+<tr>
+<td>19:30-21:30</td>
+<td>Study</td>
+<td></td>
+</tr>
+<tr>
+<td>21:30-04:30</td>
+<td>Sleep</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="tips">Tips</h2>
+<ul>
+<li>Disconnect your internet</li>
+<li>Block time wasters (any feed-based website)</li>
+<li>Ditch the chair. Stand while you work (I use Autonomous) (Health benefits, energy levels, focus/attention increase)</li>
+<li>Drink plenty of water</li>
+<li>Drink coffee as needed (too much caffeine will kill your ability to focus, so
+be aware of your limits)</li>
+</ul>
+<h2 id="recommended-reads">Recommended Reads</h2>
+<ul>
+<li><em>Deep Work: Rules for Focused Success in a Distracted World</em> by Cal Newport</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>First Post</title>
+            <link>https://kevinborling.com/posts/2020/01/first-post/</link>
             <pubDate>Mon, 27 Jan 2020 20:06:24 -0500</pubDate>
             
-            <guid>https://kevinborling.com/posts/about-me/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <guid>https://kevinborling.com/posts/2020/01/first-post/</guid>
+            <description>// This says hello  int main() { fmt.Print(&amp;#34;hello&amp;#34;) } </description>
+            <content type="html"><![CDATA[<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go">  <span style="color:#75715e">// This says hello
+</span><span style="color:#75715e"></span>  <span style="color:#66d9ef">int</span> <span style="color:#a6e22e">main</span>() {
+    <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Print</span>(<span style="color:#e6db74">&#34;hello&#34;</span>)
+  }
+</code></pre></div>]]></content>
         </item>
         
     </channel>

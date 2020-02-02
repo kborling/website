@@ -9,6 +9,8 @@ aliases = ["about-us","about-hugo","contact"]
 Hi I'm Kevin. 
 
 I am the owner of Kollab Innovations, a software development
-company. 
+company.
 
-Follow me and contribute on [GitHub](https://github.com/kborling).
+I'll add more information soon.
+
+Follow me on [GitHub](https://github.com/kborling) to see what I'm up to.
