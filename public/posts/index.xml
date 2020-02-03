@@ -128,19 +128,5 @@ be aware of your limits)</li>
 ]]></content>
         </item>
         
-        <item>
-            <title>First Post</title>
-            <link>https://kevinborling.com/posts/2020/01/first-post/</link>
-            <pubDate>Mon, 27 Jan 2020 20:06:24 -0500</pubDate>
-            
-            <guid>https://kevinborling.com/posts/2020/01/first-post/</guid>
-            <description>// This says hello  int main() { fmt.Print(&amp;#34;hello&amp;#34;) } </description>
-            <content type="html"><![CDATA[<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go">  <span style="color:#75715e">// This says hello
-</span><span style="color:#75715e"></span>  <span style="color:#66d9ef">int</span> <span style="color:#a6e22e">main</span>() {
-    <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Print</span>(<span style="color:#e6db74">&#34;hello&#34;</span>)
-  }
-</code></pre></div>]]></content>
-        </item>
-        
     </channel>
 </rss>

@@ -9,16 +9,16 @@ tags:
 ---
 
 Being self-employed and service based has been a rewarding experience, but let's
-be honest.. it's a constant grind. You are either swamped with work, or you are
-worrying about being homeless. Yes I am exaggerating a bit, but the point that I
-am trying to make is the lack of consistency. This lack of consistency can be
-the deciding factor for most self-employed folks to throw in the towel and get a
-"real" job (as my family would often remind me).
+be honest.. it's a constant grind and burnout can happen quick. You are either
+swamped with work, or you are worrying about being homeless. Yes I am
+exaggerating a bit, but the point that I am trying to make is the lack of
+consistency. This lack of consistency can be the deciding factor for most
+self-employed folks to throw in the towel and get a "real" job (as my family
+would often remind me). 
 
 This brings me to my next point. The real challenge of being self-employed is
 finding consistant work that meets your criteria for success. Here is what I
 define as my criteria for success.
-
 
 One of the things that I've learned from the military is that I need structure..
 a lot of it. Without it, I am all over the place and often feel dissatisfied with

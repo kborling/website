@@ -8,9 +8,6 @@ PygmentsStyle = "monokai"
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-# googleAnalytics = ""
-# disqusShortname = ""
-
 archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
@@ -58,7 +55,7 @@ title = "Kevin Borling"
   homeSubtitle = "Have a cool project? Follow me or send me a quick message."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = ""
+  gitUrl = "https://github.com/kborling/website/commit/"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -76,19 +73,19 @@ title = "Kevin Borling"
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
-  themeColor = "#252627"
+  themeColor = "#011627"
 
   # Colors for favicons
   [params.favicon.color]
-    mask = "#252627"
-    msapplication = "#252627"
-    theme = "#252627"
+    mask = "#001627"
+    msapplication = "#001627"
+    theme = "#001627"
 
   [params.logo]
     logoText     = "$ cd /home/kevin"
     logoHomeLink = "/"
     # Set to a valid CSS color to change the cursor in the logo.
-    logoColor    = "#67a2c9"
+    # logoColor    = "#7E57C2"
 
   # Social icons
   [[params.social]]
